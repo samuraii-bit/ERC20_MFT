@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "hardhat": "^2.22.17"
+    "dotenv": "^16.4.7",
+    "hardhat": "^2.22.17",
+    "readline-sync": "^1.4.10"
   },
   "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@types/readline-sync": "^1.4.8"
   }
 }
